@@ -8,4 +8,4 @@ Outside the hospitals and doctor chambers, medical clinics are a place where mos
 # Screenshot with working steps
 
 
-![alt text](https://github.com/Saikatadhurya/medshop/blob/master/screenshots/Fullscreen%20capture%2014-07-2020%20125715.bmp)<br>
+![Home Page](screenshots/1.jpg)<br>
