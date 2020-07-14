@@ -7,8 +7,14 @@ Outside the hospitals and doctor chambers, medical clinics are a place where mos
 
 # Screenshot with working Steps
 
-![Home Page](screenshots/1.jpg)<br>
+![Home Page](screenshots/1.jpg)
 Home Page
-
-![Home Page](screenshots/10.jpg)<br>
-Login for user
+<br>
+![User Login](screenshots/10.jpg)<br>
+Login for User
+<br>
+![Doctor Login](screenshots/11.jpg)<br>
+Login for DOctor
+<br>
+![Clinic Login](screenshots/12.jpg)<br>
+Login for Clinic
