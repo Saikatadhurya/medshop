@@ -35,3 +35,48 @@ User searching for Doctor
 <br>
 Search result of clinics that contain the doctor with required specialization
 ![Doctor search](screenshots/3.jpg)<br>
+<br>
+List of doctor with required specialization inside the clinic
+![Doctor list](screenshots/4.jpg)<br>
+<br>
+Form to get appointment to the doctor
+![Form](screenshots/5.jpg)<br>
+<br>
+Payment gateway
+![Payment gateway](screenshots/6.jpg)<br>
+<br>
+Token Generated
+![token generated](screenshots/8.jpg)<br>
+<br>
+To check Token status
+![Doctor search](screenshots/9.jpg)<br>
+<br>
+Doctor's Login
+![Doctor login](screenshots/11.jpg)<br>
+<br>
+Clinic's Login
+![Clinic login](screenshots/12.jpg)<br>
+<br>
+Doctor's Panel where they can see the list of clinic
+![Doctor panel](screenshots/13.jpg)<br>
+<br>
+Doctor can see the list of Patient in respective clinics
+![Patient list](screenshots/14.jpg)<br>
+<br>
+Clinic's panel where clinic can view the list of doctor
+![Clinic panel](screenshots/15.jpg)<br>
+<br>
+Clinic can view the list of patient of respective doctor
+![Patient list](screenshots/16.jpg)<br>
+<br>
+Employer's Panel Login
+![employer panel](screenshots/17.jpg)<br>
+<br>
+Employer's Panel
+![employer panel](screenshots/18.jpg)<br>
+<br>
+Clinic approval by employer
+![clinic approval](screenshots/19.jpg)<br>
+<br>
+Doctor approval by employer
+![doctor approval](screenshots/20.jpg)<br>
