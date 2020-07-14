@@ -1,0 +1,35 @@
+
+body {
+  padding-top: 56px;
+  background-color: #F1F3F6;
+}
+.navbar-dark{background-color: #512DAB;}
+.footer{background-color:#D1C4E9;padding-top:20px;}
+
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: #2874F0;
+  color: floralwhite; }
+#grab{
+  background: #512DAB;
+  color:floralwhite;
+}
+#loginModal .modal-header {
+  background: #512DA8;
+  color: floralwhite; }
+ 
+  
+  #loginModal .modal-header .close {
+    color: floralwhite; }
+
+#loginModal .modal-body {
+  background: #D1C4E9; }
+#signinModal .modal-header {
+    background: #512DA8;
+    color: floralwhite; }
+#signinModal .modal-header .close {
+      color: floralwhite; }
+
+#items{}
+#side-bar{}
